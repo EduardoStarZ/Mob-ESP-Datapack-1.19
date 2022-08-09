@@ -1,0 +1,1 @@
+execute as @a run effect give @e glowing 1 0 true
