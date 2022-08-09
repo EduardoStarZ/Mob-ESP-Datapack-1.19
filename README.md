@@ -15,4 +15,4 @@ To use it, do /trigger Switch, using this will alternate between on and off
 
 I hope this datapack is usefull for whatever purpose you have
 
-You can suggest some new utility or report bugs in Issues if you'd like
+You can suggest some new utility that fits into the theme of the pack or report bugs in Issues if you'd like
